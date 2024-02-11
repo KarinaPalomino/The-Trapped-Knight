@@ -1,6 +1,6 @@
 # The Trapped Knight
 This project simulates the game The Trapped Knight by using simple code (utilizing for-loops, while-loops, recursives, arrays, and functions) 
-and simple mathematical subjects (inequalitites, recursive equations, addition). 
+and simple mathematical subjects (inequalities, recursive equations, addition). 
 This is my first project on the program language, Julia. 
 
 ### How to play

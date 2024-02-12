@@ -4,8 +4,8 @@ and simple mathematical subjects (inequalities, recursive equations, addition).
 This is my first project on the program language, Julia. 
 
 ### How to play
-The Trapped Knight is a simple game that starts on an odd numbered $n$ x $n$ chess board with the center being $1$ and numbers increasing in a counter-clockwise spiral from the center. 
-The knight starts in the center, at $1$, and has $8$ possible moves (just as a normal knight would move in chess). Although, in the game the knight can only move to the smallest number.
+The Trapped Knight is a simple game that starts on an odd numbered n x n chess board with the center being 1 and numbers increasing in a counter-clockwise spiral from the center. 
+The knight starts in the center, at 1, and has 8 possible moves (just as a normal knight would move in chess). Although, in the game the knight can only move to the smallest number.
 From there we continue the game until the knight reaches a number that is on the edge of the board.
 
 ### How it was planned

@@ -16,6 +16,6 @@ My debugging strategies were utilizng the Test package in julia, printing, and c
 
 ## Results
 
-![alt text](Logo)
+![alt text][Logo]
 
 [logo]:<https://github.com/user-attachments/assets/522a41f5-7a80-473b-a1ae-36c4196d4d58>

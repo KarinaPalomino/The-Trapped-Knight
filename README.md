@@ -13,3 +13,9 @@ As this was a class assignment, I had a good amount of instructions on how to fo
 I planned out how I wanted my code to look like and went through the plans reading it as if I were the computer (very literal). The debugging process began once I transfered 
 my plans onto the computer, as that was were I could test if my ideas and equations had work. Most of my time was spent debugging the second part of the project, especially the simulate_walk function.
 My debugging strategies were utilizng the Test package in julia, printing, and comparing to other classmates ideas. 
+
+## Results
+
+![alt text](Logo)
+
+[logo]:<https://github.com/user-attachments/assets/522a41f5-7a80-473b-a1ae-36c4196d4d58>
